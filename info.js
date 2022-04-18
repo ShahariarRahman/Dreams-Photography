@@ -175,7 +175,6 @@ must{
 
 /*
 bonus{
-    1.must not lorem. consistent in look.
     2.readme.md must contain{ website name,live website link,minimum five bullet points about website features and functionality,a list of technologies used in project (frameworks,libraries,others).
     }
 
