@@ -4,41 +4,41 @@
         "name": "Regular Package",
         "price": 250,
         "img": "https://i.ibb.co/m44z8n0/m1.jpg",
-        "description": "Three Hour Photography on Weeding Day"
+        "description": "Three Hour Photography on Weeding Day."
     },
     {
         "id": 2,
         "name": "Silver Package",
         "price": 350,
         "img": "https://i.ibb.co/Q8Kb9Nq/m2.jpg",
-        "description": "Five Hour Photography on Weeding Day"
+        "description": "Five Hour Photography on Weeding Day."
     },
     {
         "id": 3,
         "name": "Gold Package",
         "price": 400,
         "img": "https://i.ibb.co/WK0zcQB/m3.jpg",
-        "description": "Hole Wedding Day Photoshoot"
+        "description": "Hole Wedding Day Photoshoot."
     },
     {
         "id": 4,
-        "name": "Platinam Package",
+        "name": "Platinum Package",
         "price": 550,
         "img": "https://i.ibb.co/0p5wTYH/m4.jpg",
-        "description": "Wedding Day and GayaHolud Photoshoot"
+        "description": "Wedding Day and GayaHolud Photoshoot."
     },
     {
         "id": 5,
         "name": "Large Package",
         "price": 650,
         "img": "https://i.ibb.co/NWVvmsF/m5.jpg",
-        "description": "Wedding Day, GayaHolud and Bowvat"
+        "description": "Wedding Day, GayaHolud and Bowvat."
     },
     {
         "id": 6,
         "name": "Extra Large Package",
         "price": 750,
         "img": "https://i.ibb.co/PM63kkJ/m6.jpg",
-        "description": "Five Days Photoshoot Package"
+        "description": "Five Days Photoshoot Package."
     }
 ]
