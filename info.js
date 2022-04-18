@@ -168,13 +168,7 @@ submit:
 /*
 must{
 
-    7.blogs page{
-        ii.answer all{
-           1. Difference between authorization and authentication.
-           2. Why are you using firebase? What other options do you have to implement authentication?
-           3. What other services does firebase provide other than authentication }
-        iii.must 3-5 line and own words. bangla/english as wish,
-    }
+
     10.Minimum 9 meaningful git commit
 }
 */
