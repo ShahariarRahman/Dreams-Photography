@@ -2,9 +2,6 @@
 
 ## Live Server Link: [Firebase Hosting](http://localhost:3000)
 
-
-### `npm start`
-
 ### Descriptions:
 
 * This website is a make for Professional Wedding Photographer. 
