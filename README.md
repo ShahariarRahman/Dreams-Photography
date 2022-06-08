@@ -1,6 +1,6 @@
 # Project : Dreams Photography 
 
-### Client-Side: [Livesite](https://dreams-photography-786.web.app/)
+### Visit Website: [Livesite](https://dreams-photography-786.web.app/)
 
 ### Descriptions:
 * This is a project for a wedding photographer whose client can hire him for taking a photo at the wedding ceremony. 
